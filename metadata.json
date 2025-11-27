@@ -1,0 +1,5 @@
+{
+  "name": "DevOps Simulator AI",
+  "description": "An interactive, AI-powered DevOps learning platform simulating environments like Kubernetes, Docker, and Linux directly in the browser.",
+  "requestFramePermissions": []
+}
